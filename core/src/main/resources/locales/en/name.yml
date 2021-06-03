@@ -1,3 +1,4 @@
+# START provider_name
 en:
   faker:
     name:
@@ -24,3 +25,4 @@ en:
         - "#{first_name} #{last_name} #{last_name}"
         - "#{first_name} #{last_name} #{last_name}"
         - "#{first_name} #{last_name} #{last_name}"
+# END provider_name

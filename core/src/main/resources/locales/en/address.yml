@@ -1,3 +1,4 @@
+# START provider_address
 en:
   faker:
     address:
@@ -586,3 +587,4 @@ en:
         - "PO Box ###"
         - "PO Box ####"
       default_country: [United States of America]
+# END provider_address
