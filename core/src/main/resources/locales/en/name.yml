@@ -1,4 +1,4 @@
-# START provider_name
+# START name_provider_dict
 en:
   faker:
     name:
@@ -25,4 +25,4 @@ en:
         - "#{first_name} #{last_name} #{last_name}"
         - "#{first_name} #{last_name} #{last_name}"
         - "#{first_name} #{last_name} #{last_name}"
-# END provider_name
+# END name_provider_dict
